@@ -1,5 +1,7 @@
 ﻿//Fizz buzz FizzBuzz
 
+
+
 //Console.WriteLine("How many times you want to run the code? :");
 //int length = Convert.ToInt32(Console.ReadLine());
 
@@ -17,8 +19,9 @@
 //    Console.WriteLine(result);
 //}
 
-using System.Linq; // Required for Enumerable.Range
 
+
+using System.Linq; // Required for Enumerable.Range
 Console.WriteLine("How many times you want to run the code? :");
 int length = Convert.ToInt32(Console.ReadLine());
 
@@ -31,11 +34,14 @@ foreach (int i in Enumerable.Range(1, length))
         _ when i % 3 == 0 && i % 5 == 0 => "FizzBuzz",
         _ when i % 3 == 0 => "Fizz",
         _ when i % 5 == 0 => "Buzz",
-        _ => i.ToString(), // Don't forget the comma!
+        _ => i.ToString(), // number format applied
     };
 
     Console.WriteLine(result);
-} 
+}
+
+
+
 
 
 //Imagine you want to display a "Status" tag based on the Current Salary in your app
