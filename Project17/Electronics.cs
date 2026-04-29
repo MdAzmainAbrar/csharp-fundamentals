@@ -1,4 +1,7 @@
-﻿using System;
+﻿//Derived Classes(Inheritance & Polymorphism)
+//Now we create specialized items. Inheritance allows Electronics to get all the features of InventoryItem for free, while Polymorphism allows us to change how DisplayDetails works for this specific type.
+
+using System;
 using System.Collections.Generic;
 using System.Text;
 
