@@ -1,4 +1,15 @@
 <Solution>
   <Project Path="Project1/Project1.csproj" />
+  <Project Path="Project10/Project10.csproj" Id="905be6b6-1a55-40ef-aa1a-42564236649f" />
+  <Project Path="Project11/Project11.csproj" Id="6970a78e-20d5-4a67-9b21-094cb2a3b27e" />
+  <Project Path="Project12/Project12.csproj" Id="adfd6a91-32f0-4bfd-a24c-d2ec34adbbda" />
+  <Project Path="Project13/Project13.csproj" Id="b9d8d5d8-5fae-4a4b-b71d-7596e4e4d057" />
+  <Project Path="Project14/Project14.csproj" Id="36a724ea-1ee2-401b-8539-fa8f610fe34e" />
+  <Project Path="Project15/Project15.csproj" Id="fe1658ab-622c-4de2-9ba6-8c9ba3040694" />
+  <Project Path="Project16/Project16.csproj" Id="b9e6286e-8b4f-46cd-9bbb-b2769300aea4" />
+  <Project Path="Project17/Project17.csproj" Id="f752104f-bad2-4d61-8e62-5d02210d4896" />
   <Project Path="Project2/Project2.csproj" Id="ca483d9a-5555-4347-ae04-10df90310a79" />
+  <Project Path="Project7/Project7.csproj" Id="46674d45-684a-4edd-b514-57d2f0e60b6b" />
+  <Project Path="Project8/Project8.csproj" Id="56f0ab9a-a60c-4c82-ab71-cdaba04179b4" />
+  <Project Path="Project9/Project9.csproj" Id="7037059b-3936-482a-9f7d-1c5d8bac658b" />
 </Solution>
